@@ -48,7 +48,7 @@ Modernized a legacy Microsoft Access inventory process by helping develop a SQL 
 
 ---
 
-## 📊 Enterprise Inventory Data Warehouse & Analytics
+## 📊 Inventory Data Warehouse & True Out-of-Stock Analytics
 
 Helped develop a SQL Server data warehouse that transforms ERP inventory data into historical business intelligence. The platform captures inventory snapshots throughout the day and powers Power BI dashboards, trend analysis, and True Out-of-Stock Analytics.
 
