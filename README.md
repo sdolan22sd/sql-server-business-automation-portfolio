@@ -40,44 +40,27 @@ Most of my professional work supports critical business operations including EDI
 
 # Featured Projects
 
-## SQL-Based EDI 846 Inventory Automation
+## 📦 SQL-Based EDI 846 Inventory Automation
 
 Modernized a legacy Microsoft Access inventory process by helping develop a SQL Server-based automated EDI 846 solution. The application processes customer-specific inventory data, applies business rules, and automatically generates inventory files for retail trading partners.
 
-**Technologies**
-- SQL Server
-- T-SQL
-- Stored Procedures
-- PowerShell
-- SQL Agent
-- EDI
+➡️ [View Project](Projects/EDI-846-Inventory-Automation.md)
 
 ---
 
-## True Out-of-Stock Analytics Platform
+## 📊 Enterprise Inventory Data Warehouse & Analytics
 
-Helped develop a SQL Server data warehouse solution that captures inventory snapshots throughout the day and transforms operational ERP data into historical analytics. The platform powers Power BI dashboards that identify inventory shortages, monitor trends, and support purchasing and operational decisions.
+Helped develop a SQL Server data warehouse that transforms ERP inventory data into historical business intelligence. The platform captures inventory snapshots throughout the day and powers Power BI dashboards, trend analysis, and True Out-of-Stock Analytics.
 
-**Technologies**
-- SQL Server
-- Data Warehouse
-- ETL
-- T-SQL
-- Power BI
-- SSRS
+➡️ [View Project](Projects/Inventory-Data-Warehouse-True-Out-of-Stock.md)
 
 ---
 
-## Customer Catalog Cleanup & PX Deletion Workflow
+## 🗂 Customer Catalog Cleanup Automation
 
-Developed SQL workflows that identify obsolete customer catalog records, stage them for business review, maintain audit history, and safely automate production cleanup while reducing manual maintenance and improving data integrity.
+Developed a SQL Server workflow that automates the identification, review, auditing, and cleanup of obsolete customer catalog records while improving data integrity and reducing manual effort.
 
-**Technologies**
-- SQL Server
-- Stored Procedures
-- Triggers
-- SSRS
-- Audit Tables
+➡️ [View Project](Projects/Customer-Catalog-Cleanup-Automation.md)
 
 ---
 
