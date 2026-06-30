@@ -1,4 +1,4 @@
-# True Out-of-Stock Analytics Platform
+# Inventory Data Warehouse & True Out-of-Stock Analytics
 
 ## Overview
 
